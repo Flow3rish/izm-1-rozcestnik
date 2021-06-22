@@ -7,6 +7,9 @@ https://github.com/Flow3rish/market-basket-analysis
 ## SCE
 https://github.com/Flow3rish/neuralnet-project-1o
 
+## AI
+https://github.com/Flow3rish/ai-project
+
 ## SI
 https://github.com/Flow3rish/ordersprocessing-service
 
